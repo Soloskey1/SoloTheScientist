@@ -12,6 +12,6 @@ learning since many systems keep track of signals that are changing over time.
 
 Describe the data
 --------------------
-My work here contains some generated  data used to perform  festure engineering, ttphis process involves some
-process bring out qaulity in time-series data. I converted timestamps into differents timezone and perform
-some convrsions. Go through it eagerly.
+My work here contains some generated  data used to perform  feature engineering, this involves some
+process in order to bring out qaulity in time-series data. I converted timestamps into differents timezones and perform
+some more convrsions. Go through it eagerly.
